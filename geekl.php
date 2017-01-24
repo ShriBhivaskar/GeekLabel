@@ -212,7 +212,7 @@ textarea, input, button {
 <section class="geeklaa">
 <div class="jumbotron text-center ">
 	<div class="man" >
-	<img class="manimg" src="geekl/machineIllustration.png" width="600px">
+	<img class="manimg" src="machineIllustration.png" width="600px">
 	<p class="geeklabp">Some agencies know how to <span class="st">build</span> but can't do design</p> 
 	<i class="fa fa-chevron-circle-down" style="font-size:48px;color:red"></i>
 	</div>
@@ -223,7 +223,7 @@ textarea, input, button {
 
 <div class="jumbotron text-center ">
 	<div class="man" >
-	<img class="manimg" src="geekl/weLoveBoth.png" width="600px">
+	<img class="manimg" src="weLoveBoth.png" width="600px">
 	<p class="geeklabp">We love <span class="st">both</span></p> 
 	<i class="fa fa-chevron-circle-down" style="font-size:48px;color:red"></i>
 	</div>
@@ -238,22 +238,22 @@ textarea, input, button {
   <br>
   <div class="row">
     <div class="col-md-3 col-xs">
-      <img class="servicebrand" src="geekl/web.png" width="150px">
+      <img class="servicebrand" src="web.png" width="150px">
 
       <p class="geeklabp">Web Development</p>
     </div>
     <div class="col-md-3 col-xs">
-      <img class="servicebrand" src="geekl/design.png" width="150px">
+      <img class="servicebrand" src="design.png" width="150px">
 
       <p class="geeklabp">Design</p>
     </div>
     <div class="col-md-3 col-xs">
-      <img class="servicebrand" src="geekl/branding.png" width="150px">
+      <img class="servicebrand" src="branding.png" width="150px">
 
       <p class="geeklabp">Branding</p>
     </div>
     <div class="col-md-3 col-xs">
-      <img class="servicebrand" src="geekl/UX.png" width="150px">
+      <img class="servicebrand" src="UX.png" width="150px">
 
       <p class="geeklabp">UX Research</p>
     </div>
@@ -273,16 +273,16 @@ textarea, input, button {
 
   <div class="row clients pagination-centered" >
     <div class="col-md-4 col-xs-3">
-      <img class="sbrand" src="geekl/TPG.png" width="150px"><br>
+      <img class="sbrand" src="TPG.png" width="150px"><br>
 
     </div>
     <div class="col-md-4 col-xs-3">
-      <img class="sbrand" src="geekl/vEGAN.png" width="150px"><br>
+      <img class="sbrand" src="vEGAN.png" width="150px"><br>
 
 
     </div>
     <div class="col-md-4 col-xs-3">
-      <img class="sbrand" src="geekl/PSHE.png" width="150px"><br>
+      <img class="sbrand" src="PSHE.png" width="150px"><br>
 
 
     </div>
@@ -355,26 +355,26 @@ width="100%" height="60%frameborder="0" style="border:0" allowfullscreen></ifram
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="geekl/TPG.png" alt="TPG">
+      <img src="TPG.png" alt="TPG">
     </div>
 
     <div class="item active">
-      <img src="geekl/vEGAN.png" alt="vEGAN">
+      <img src="vEGAN.png" alt="vEGAN">
     </div>
 
     <div class="item active">
-      <img src="geekl/PSHE.png" alt="PSHE">
+      <img src="PSHE.png" alt="PSHE">
     </div>
 
     <div class="item">
-      <img src="geekl/TPG.png" alt="TPG">
+      <img src="TPG.png" alt="TPG">
     </div>
     <div class="item">
-      <img src="geekl/vEGAN.png" alt="vEGAN">
+      <img src="vEGAN.png" alt="vEGAN">
     </div>
 
     <div class="item">
-      <img src="geekl/PSHE.png" alt="PSHE">
+      <img src="PSHE.png" alt="PSHE">
     </div>	
   </div>
 
@@ -398,10 +398,10 @@ width="100%" height="60%frameborder="0" style="border:0" allowfullscreen></ifram
             <figure>
                 <div class="owl-carousel" data-plugin-options='{"items": 6, "singleItem": false}'>
                     <div class="item">
-                        <img src="geekl/TPG.png" alt="logo1">
+                        <img src="TPG.png" alt="logo1">
                     </div>
                     <div class="item">
-                        <img src="geekl/PSHE.png" alt="logo1">
+                        <img src="PSHE.png" alt="logo1">
                     </div>
 			<!--
                     <div class="item">
@@ -409,24 +409,24 @@ width="100%" height="60%frameborder="0" style="border:0" allowfullscreen></ifram
                     </div>
 			-->
                     <div class="item">
-                        <img src="geekl/TPG.png" alt="logo1">
+                        <img src="TPG.png" alt="logo1">
                     </div>
                     <div class="item">
-                        <img src="geekl/PSHE.png" alt="logo1">
+                        <img src="PSHE.png" alt="logo1">
                     </div>
                     <div class="item">
-                        <img src="geekl/TPG.png" alt="logo1">
+                        <img src="TPG.png" alt="logo1">
                     </div>
 
                     <div class="item">
-                        <img src="geekl/PSHE.png" alt="logo1">
+                        <img src="PSHE.png" alt="logo1">
                     </div>
                     
                     <div class="item">
-                        <img src="geekl/TPG.png" alt="logo1">
+                        <img src="TPG.png" alt="logo1">
                     </div>
                     <div class="item">
-                        <img src="geekl/PSHE.png" alt="logo1">
+                        <img src="PSHE.png" alt="logo1">
                     </div>
 				</figure>    
 			</div>
@@ -468,9 +468,9 @@ function showDivs(n) {
 
 
 <div class="w3-content w3-display-container">
-  <img class="mySlides" src="geekl/PSHE.png">
-  <img class="mySlides" src="geekl/TPG.png">
-  <img class="mySlides" src="geekl/vEGAN.png"><BR>
+  <img class="mySlides" src="PSHE.png">
+  <img class="mySlides" src="TPG.png">
+  <img class="mySlides" src="vEGAN.png"><BR>
   <div class="w3-center w3-display-bottommiddle" style="width:100%">
     <div class="w3-left" onclick="plusDivs(-1)">&#10094;</div>
     <div class="w3-right" onclick="plusDivs(1)">&#10095;</div>
